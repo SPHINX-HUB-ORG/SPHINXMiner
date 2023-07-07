@@ -4,8 +4,6 @@
 
 This project is dedicated to the world community as an Open-source Post-quantum SPHINX blockchain, means anyone can join and contribute based on his/ her passion and skills. SPHINX is a blockchain protocol designed to provide secure and scalable solutions in the post-quantum era. The project aims to develop a robust and decentralized network using a Proof of Work (PoW) consensus algorithm initiated by the community. We thrilled to introduce a new design for Proof-of-Work operation.
 
-This repository is dedicated to the SPHINX blockchain project, an open-source post-quantum SPHINX blockchain designed to provide secure and scalable solutions in the post-quantum era. The project aims to develop a robust and decentralized network using a Proof of Work (PoW) consensus algorithm initiated by the community.
-
 # Components
 
 ## SPHINXMiner
