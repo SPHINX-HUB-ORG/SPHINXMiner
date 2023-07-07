@@ -2,7 +2,7 @@
  *  Copyright (c) (2023) SPHINX_ORG
  *  Authors:
  *    - (C kusuma) <thekoesoemo@gmail.com>
- *      GitHub: (https://github.com/cahyaksm)
+ *      GitHub: (https://github.com/chykusuma)
  *  Contributors:
  *    - (Contributor 1) <email1@example.com>
  *      Github: (https://github.com/yourgit)
