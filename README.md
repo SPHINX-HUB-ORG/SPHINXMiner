@@ -39,7 +39,7 @@ To get started with the SPHINXMiner project, follow these steps:
 3. Explore the codebase to understand the project structure and components.
 4. Use the provided functions to mine blocks in the SPHINX blockchain.
 
-## This repository is part of the [SPHINX blockchain project](https://github.com/SPHINX-HUB-ORG/SPHINXPoW)
+### This repository is part of the  [SPHINXPoW](https://github.com/SPHINX-HUB-ORG/SPHINXPoW)
 
 Please note that the code in this repository is a part of the SPHINXPoW algorithm, which is currently in development and not fully integrated or extensively tested for functionality. The purpose of this repository is to provide a framework and algorithm for the mining scheme in the SPHINX blockchain project.
 
