@@ -2,13 +2,13 @@
 
 ## Introduction
 
+This project is dedicated to the world community as an Open-source Post-quantum SPHINX blockchain, means anyone can join and contribute based on his/ her passion and skills. SPHINX is a blockchain protocol designed to provide secure and scalable solutions in the post-quantum era. The project aims to develop a robust and decentralized network using a Proof of Work (PoW) consensus algorithm initiated by the community. We thrilled to introduce a new design for Proof-of-Work operation.
+
 This repository is dedicated to the SPHINX blockchain project, an open-source post-quantum SPHINX blockchain designed to provide secure and scalable solutions in the post-quantum era. The project aims to develop a robust and decentralized network using a Proof of Work (PoW) consensus algorithm initiated by the community.
 
-[SPHINX blockchain project](https://github.com/SPHINX-HUB-ORG/SPHINXPoW), an open-source post-quantum SPHINX blockchain designed to provide secure and scalable solutions in the post-quantum era. The project aims to develop a robust and decentralized network using a Proof of Work (PoW) consensus algorithm initiated by the community.
+# Components
 
-## Components
-
-# SPHINXMiner
+## SPHINXMiner
 
 This repository contains code for the SPHINXMiner project, which is a mining module for the SPHINX blockchain. The SPHINXMiner aims to provide a Proof of Work (PoW) algorithm for mining blocks in the SPHINX blockchain.
 
@@ -39,22 +39,21 @@ To get started with the SPHINXMiner project, follow these steps:
 3. Explore the codebase to understand the project structure and components.
 4. Use the provided functions to mine blocks in the SPHINX blockchain.
 
-## New File: [Filename]
+## New File for: [SPHINX blockchain project](https://github.com/SPHINX-HUB-ORG/SPHINXPoW),]
 
-Explain how the new file you uploaded to this repository is a part of the SPHINXMiner project and its purpose. Provide a brief overview of the file's contents and its relevance to the overall project.
+This code is a part of SPHINXPoW algorithm.
 
-## Getting Started
+# Getting Started
+To get started with the SPHINX blockchain project, follow the instructions below:
 
-To get started with the SPHINX blockchain project:
-
-1. Clone the repository: `git clone https://github.com/ChyKusuma/SPHINXMiner.git`
-2. Install the necessary dependencies (provide a link to the installation guide if applicable).
+1. Clone the repository: `git clone https://github.com/ChyKusuma/SPHINXPoW.git`
+2. Install the necessary dependencies (List the dependencies or provide a link to the installation guide).
 3. Explore the codebase to understand the project structure and components.
 4. Run the project or make modifications as needed.
 
-## Contributing
 
-We welcome contributions from the developer community to enhance the SPHINX blockchain project. If you are interested in contributing, please follow these guidelines:
+## Contributing
+We welcome contributions from the developer community to enhance the SPHINX blockchain project. If you are interested in contributing, please follow the guidelines below:
 
 1. Fork the repository on GitHub.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name` or `git checkout -b bugfix/your-bug-fix`.
@@ -63,12 +62,10 @@ We welcome contributions from the developer community to enhance the SPHINX bloc
 5. Commit your changes: `git commit -m "Description of your changes"`.
 6. Push the branch to your forked repository: `git push origin your-branch-name`.
 7. Open a pull request against the main repository, describing your changes and the problem it solves.
-8. Insert your information (i.e., name, email) in the authors space.
+8. Insert your information (i.e name, email) in the authors space.
 
 ## License
-
-This project is distributed under the [MIT License](link-to-license).
+Specify the license under which the project is distributed (MIT License).
 
 ## Contact
-
-If you have any questions, suggestions, or feedback regarding the SPHINX blockchain project, feel free to reach out to us at sphinxfounders@gmail.com.
+If you have any questions, suggestions, or feedback regarding the SPHINX blockchain project, feel free to reach out to us at [sphinxfounders@gmail.com](mailto:sphinxfounders@gmail.com).
