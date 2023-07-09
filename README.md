@@ -8,7 +8,7 @@ This project is dedicated to the world community as an Open-source Post-quantum 
 
 ## SPHINXMiner
 
-This repository contains code for the SPHINXMiner project, which is a mining module for the SPHINX blockchain. The SPHINXMiner aims to provide a Proof of Work (PoW) algorithm for mining blocks in the SPHINX blockchain.
+This repository contains code for the SPHINXMiner project, which is a `mining` module for the SPHINX blockchain. The SPHINXMiner aims to provide a Proof of Work (PoW) algorithm for mining blocks in the SPHINX blockchain.
 
 ## Function Explanation
 
