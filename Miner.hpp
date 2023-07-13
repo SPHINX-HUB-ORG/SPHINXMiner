@@ -12,45 +12,29 @@
 
 
 
-#ifndef SPHINXMINER_HPP
-#define SPHINXMINER_HPP
-
-#pragma once
+#ifndef MINER_HPP
+#define MINER_HPP
 
 #include <string>
 #include "Block.hpp"
 
-
 namespace SPHINXMiner {
 
     class Miner {
+    public:
+        Miner();
+        Block mineBlock(const std::string& previousHash, const std::string& rewardAddress);
+        void performMining();
+
     private:
         int difficulty_;
         int rewardHalvingInterval_;
         int reward_;
-        int blockHeight_;
-
-    public:
-        Miner();
-
-        struct Block {
-            std::string previousHash;
-            std::string data;
-            std::string proofOfWork;
-            std::time_t timestamp;
-        };
-
-        Block mineBlock(const std::string& previousHash, const std::string& rewardAddress);
 
         std::string calculateProofOfWork(const std::string& blockData, int difficulty);
-
-        void startMining();
-
-    private:
         void updateReward();
     };
 
 } // namespace SPHINXMiner
 
-#endif // SPHINX_MINER_HPP
-
+#endif // MINER_HPP
